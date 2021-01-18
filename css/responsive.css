@@ -1,0 +1,76 @@
+@media(max-width: 1199px){
+	/*lg*/
+}
+@media(max-width: 991px){
+	/*md*/
+	header>.container {
+    	padding: 50px 0;
+	}
+	.banner-content h1 {
+    
+    font-size: 38px;
+    line-height: 55px;
+   
+	}
+	.problem h2 {
+    font-size: 18px;
+    margin: 8px 0;
+	}
+	.problem p {
+    font-size: 14px;
+ 	}
+	.problem img{
+		width: 70px;
+	}
+	.problem {
+    padding: 30px 8px;
+	}
+	section {
+    padding: 40px 0;
+ 	}
+ 	.heading h1 {
+    font-size: 30px;
+	}
+	.middle {
+   
+    padding: 12px;
+	}
+	.middle h2 {
+    font-size: 18px;
+   
+    font-weight: 600;
+ 	}
+ 	.middle span {
+    font-size: 15px;
+	}
+	.middle ul li{
+		font-size: 11px;
+	}
+	
+}
+@media(max-width:767px){
+	/*sm*/
+	.banner-content h1 {
+    font-size: 28px;
+    line-height: 40px;
+	}
+	.banner-content p{
+   
+    font-size: 14px;
+    line-height: 30px;
+	}
+	.btn-custom {
+    
+    padding: 8px 30px;
+    font-size: 14px;
+	}
+	.problem{
+		margin-bottom: 10px;
+	}
+	.middle{
+		margin-bottom: 30px;
+	}
+}
+@media(max-width:575 px){
+	/*xs*/
+}
